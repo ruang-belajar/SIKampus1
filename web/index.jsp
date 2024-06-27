@@ -42,6 +42,7 @@
         <ul>
             <li><a href="data_mahasiswa.jsp" class="btn btn-primary">Mahasiswa</a></li>
             <li><a href="data_dosen.jsp" class="btn btn-info">Dosen</a></li>
+            <li><a href="data_kelas.jsp" class="btn btn-info">Kelas</a></li>
             <li><a href="data_usersdosen.jsp" class="btn btn-warning">User Dosen</a></li>
             <li><a href="logout.jsp" class="btn btn-danger">🚫 Log out</a> </li>
         </ul>
